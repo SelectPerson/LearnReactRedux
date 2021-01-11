@@ -1,0 +1,4 @@
+export const CREATE_POST = 'POST/CREATE_POST'
+export const FETCH_POST = 'POST/FETCH_POSTS'
+export const SHOW_LOADER = 'POST/SHOWLOADER'
+export const HIDE_LOADER = 'POST/HIDELOADER'
